@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:forminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|c:\\users\\playa\\desktop\\materia\\ia\\proyecto 1\\jarvis\\formacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:formacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\formacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:formacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\forminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:forminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T23:50:04.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormInicio.cs",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\FormInicio.cs",
+              "RelativeDocumentMoniker": "FormInicio.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\FormInicio.cs",
+              "RelativeToolTip": "FormInicio.cs",
+              "ViewState": "AgIAAJEFAAAAAAAAAAAAAFICAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T20:13:04.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\FormInicio.cs",
+              "RelativeDocumentMoniker": "FormInicio.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\FormInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:53:49.261Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormAcceso.cs",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\FormAcceso.cs",
+              "RelativeDocumentMoniker": "FormAcceso.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\FormAcceso.cs",
+              "RelativeToolTip": "FormAcceso.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAowOMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T07:19:29.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormInicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\FormInicio.Designer.cs",
+              "RelativeDocumentMoniker": "FormInicio.Designer.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\FormInicio.Designer.cs",
+              "RelativeToolTip": "FormInicio.Designer.cs",
+              "ViewState": "AgIAAAkCAAAAAAAAAAAiwAgCAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T04:49:37.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormAcceso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\FormAcceso.cs",
+              "RelativeDocumentMoniker": "FormAcceso.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Materia\\IA\\Proyecto 1\\Jarvis\\FormAcceso.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FormAcceso.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T06:53:58.475Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
