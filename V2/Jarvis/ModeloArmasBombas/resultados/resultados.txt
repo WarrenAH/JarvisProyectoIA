@@ -1,0 +1,1330 @@
+En el minuto 0:00 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+0 explosive(s) encontrados en total
+0 handgun(s) encontrados en total
+0 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 0:04 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+1 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+0 explosive(s) encontrados en total
+1 handgun(s) encontrados en total
+0 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 0:09 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+0 explosive(s) encontrados en total
+1 handgun(s) encontrados en total
+0 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 0:14 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+1 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+0 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+0 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 0:19 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+0 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+0 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 0:24 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+0 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+0 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 0:29 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+1 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+0 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 0:34 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+1 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+0 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 0:39 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+1 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+0 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 0:44 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+1 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+0 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 0:49 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+1 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+0 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 0:54 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+1 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+0 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 0:59 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+1 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 1:04 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+1 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 1:09 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+1 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 1:14 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+1 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 1:19 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+1 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 1:24 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+2 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 1:29 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+2 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 1:34 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+3 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 1:39 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+4 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 1:44 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+5 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 1:49 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+6 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 1:54 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+7 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 1:59 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+8 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 2:04 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+8 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 2:09 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 2:14 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 2:19 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 2:24 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 2:29 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 2:34 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+1 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 2:39 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+2 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 2:44 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+2 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 2:49 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+2 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 2:54 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+2 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 2:58 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+2 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 3:03 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+3 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 3:08 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+3 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 3:13 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+3 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 3:18 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+3 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 3:23 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+3 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 3:28 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 3:33 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 3:38 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 3:43 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 3:48 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 3:53 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 3:58 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 4:03 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 4:08 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 4:13 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 4:18 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 4:23 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 4:28 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 4:33 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 4:38 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+2 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 4:43 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+1 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+3 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 4:48 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+1 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+4 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 4:53 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+1 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+5 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 4:58 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+5 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 5:03 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+5 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 5:08 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+1 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+6 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 5:13 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+1 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+7 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 5:18 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+1 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+8 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 5:23 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+1 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+9 handgun(s) encontrados en total
+4 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 5:28 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+9 handgun(s) encontrados en total
+5 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 5:33 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+9 handgun(s) encontrados en total
+5 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 5:38 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+9 handgun(s) encontrados en total
+5 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 5:43 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+9 handgun(s) encontrados en total
+5 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 5:48 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+1 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+5 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 5:52 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+5 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 5:57 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+5 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 6:02 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+9 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+6 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 6:07 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+10 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+6 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 6:12 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+10 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+6 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 6:17 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+10 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+6 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 6:22 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+10 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+7 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 6:27 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+10 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+8 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 6:32 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+10 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+8 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 6:37 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+11 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+8 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 6:42 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+11 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+8 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 6:47 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+11 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+9 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 6:52 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+11 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+9 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 6:57 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+11 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+9 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 7:02 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+11 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+10 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 7:07 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+10 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 7:12 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+10 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 7:17 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+10 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 7:22 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+10 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 7:27 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+10 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 7:32 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 7:37 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 7:42 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+10 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 7:47 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+1 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 7:52 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 7:57 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 8:02 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 8:07 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 8:12 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 8:17 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 8:22 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 8:27 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 8:32 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+12 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 8:37 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+13 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 8:42 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+14 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 8:46 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+14 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+11 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 8:51 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+14 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+12 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 8:56 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+14 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+13 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 9:01 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+14 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+13 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 9:06 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+14 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+13 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 9:11 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+14 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+13 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 9:16 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+15 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+13 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 9:21 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+15 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+13 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 9:26 se encontraron los siguientes objetos:
+1 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+13 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 9:31 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+13 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 9:36 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+13 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 9:41 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+11 handgun(s) encontrados en total
+13 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 9:46 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+1 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+13 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 9:51 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+13 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 9:56 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+14 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 10:01 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+2 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+16 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 10:06 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+17 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 10:11 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+17 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 10:16 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+17 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 10:21 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+1 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+18 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 10:26 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+18 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 10:31 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+18 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 10:36 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+18 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 10:41 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+18 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 10:46 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+18 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 10:51 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+18 rifle(s) encontrados en total
+--------------------------------------------------
+En el minuto 10:56 se encontraron los siguientes objetos:
+0 explosive(s) en este segundo
+0 handgun(s) en este segundo
+0 rifle(s) en este segundo
+
+Totales acumulados hasta el momento:
+16 explosive(s) encontrados en total
+12 handgun(s) encontrados en total
+18 rifle(s) encontrados en total
+--------------------------------------------------

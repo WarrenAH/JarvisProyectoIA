@@ -1,0 +1,14 @@
+batch_size: 8
+fft_length: 384
+frame_length: 256
+frame_step: 160
+input_shape:
+- 6521
+- 193
+learning_rate: 0.0005
+max_spectrogram_length: 6521
+max_text_length: 636
+model_path: ModeloVoz/202411051328
+train_epochs: 400
+train_workers: 20
+vocab: 'abcdefghijklmnopqrstuvwxyz''?! '

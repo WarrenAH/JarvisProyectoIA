@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\frmacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:frmacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\frmvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:frmvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\frminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:frminicio.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\frmtextopython.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:frmtextopython.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\frmvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:frmvideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:frminicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\moduloipdeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:moduloipdeapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\frmtextopython.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:frmtextopython.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|c:\\users\\playa\\desktop\\proyecto 2\\final\\jarvis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\frmacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF2F5EF8-75AA-411C-9E57-B8A149AB3918}|Jarvis.csproj|solutionrelative:frmacceso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmInicio.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmInicio.Designer.cs",
+              "RelativeDocumentMoniker": "FrmInicio.Designer.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmInicio.Designer.cs",
+              "RelativeToolTip": "FrmInicio.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:06:20.091Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmTextoPython.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmTextoPython.cs",
+              "RelativeDocumentMoniker": "FrmTextoPython.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmTextoPython.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmTextoPython.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:06:57.777Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "FrmInicio.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:06:21.159Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmVideo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmVideo.cs",
+              "RelativeDocumentMoniker": "FrmVideo.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmVideo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FrmVideo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:56:11.182Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmInicio.cs",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmInicio.cs",
+              "RelativeDocumentMoniker": "FrmInicio.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmInicio.cs",
+              "RelativeToolTip": "FrmInicio.cs",
+              "ViewState": "AgIAAE4DAAAAAAAAAAAmwPcDAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:50:07.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModuloIPDeAPI.cs",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\ModuloIPDeAPI.cs",
+              "RelativeDocumentMoniker": "ModuloIPDeAPI.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\ModuloIPDeAPI.cs",
+              "RelativeToolTip": "ModuloIPDeAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:43:10.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAcceso.cs",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmAcceso.cs",
+              "RelativeDocumentMoniker": "FrmAcceso.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmAcceso.cs*",
+              "RelativeToolTip": "FrmAcceso.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwHUAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:12:09.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmVideo.cs",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmVideo.cs",
+              "RelativeDocumentMoniker": "FrmVideo.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmVideo.cs",
+              "RelativeToolTip": "FrmVideo.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:56:15.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmTextoPython.cs",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmTextoPython.cs",
+              "RelativeDocumentMoniker": "FrmTextoPython.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmTextoPython.cs",
+              "RelativeToolTip": "FrmTextoPython.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAApwDcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:06:59.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:43:44.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmAcceso.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmAcceso.cs",
+              "RelativeDocumentMoniker": "FrmAcceso.cs",
+              "ToolTip": "C:\\Users\\playa\\Desktop\\Proyecto 2\\FINAL\\Jarvis\\FrmAcceso.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "FrmAcceso.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:12:08.385Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
